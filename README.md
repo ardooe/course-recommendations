@@ -8,4 +8,4 @@ Personal favourites and recommendations for courses (both free and paid).
 
 ## Programming languages
 
-[Scala 3 & Functional Programming Essentials](https://rockthejvm.com/p/scala) - One of the best courses on Scala I have attended, simple explanations of the basic concepts behind this multiparadigm language
+[Scala 3 & Functional Programming Essentials](https://rockthejvm.com/p/scala) - One of the best courses on [Scala](https://www.scala-lang.org/) I have attended, simple explanations of the basic concepts behind this multiparadigm language
