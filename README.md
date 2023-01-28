@@ -12,7 +12,7 @@ Personal favourites and recommendations for courses (both free and paid).
 
 ## Math
 
-[Krista King Math](https://www.kristakingmath.com/) - Multiple courses on math from fundamentals to linear algebra. Clear explanations in step-by-step videos, worksbooks and quizzes.
+[Krista King Math](https://www.kristakingmath.com/) - Multiple courses on math from fundamentals to calculus. Clear explanations in step-by-step videos, worksbooks and quizzes.
 
 ## Programming languages
 
